@@ -31,7 +31,7 @@ print ""
 print Fore.CYAN + "LOcate Traget Files"
 print "############### Complete"
 print ""
-print Fore.CYAN + "Excute Cryto Operations"
+print Fore.CYAN + "Excute Crypto Operations"
 print "############### Complete"
 
 print ""
